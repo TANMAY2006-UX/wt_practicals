@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.zip
+expt3_new_fetch/
